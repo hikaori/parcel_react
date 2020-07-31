@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/hikaori/parcel_react/issues"
   },
-  "homepage": "https://github.com/hikaori/parcel_react#readme"
+  "homepage": "https://github.com/hikaori/parcel_react#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
 }
